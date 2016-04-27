@@ -1,4 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/tuiSSE/lara-vedst.png?label=ready&title=Ready)](https://waffle.io/tuiSSE/lara-vedst)
+[![Stories in Ready](https://badge.waffle.io/tuiSSE/lara-vedst.png?label=ready&title=Ready)](https://waffle.io/tuiSSE/lara-vedst)
 ## Club management software built on top of Laravel 5.2
 
 ## This is a development version
